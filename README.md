@@ -17,11 +17,11 @@ draft = true
 ```
 
 The easiest way to do this is to have [hugo](http://gohugo.io) create
-the new post for you from the repository root.
+The new post for you from the repository root.
 
     hugo new "section/title of post"
 
-For example if I was writing a post for the 2014 advent called "go awesome":
+For example, if I was writing a post for the 2014 advent called "go awesome":
 
     hugo new "content/advent-2014/go-awesome.md"
 
